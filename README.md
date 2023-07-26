@@ -1,6 +1,6 @@
 # M5StickCPlus_OSC
  
-This is a code for transmitting distance data from time of flight sensor via OSC protocol
+This code transmits distance data from the time of flight sensor via the OSC protocol using M5StickCPlus (ESP32).
 
 Main interface and OSC implementation is written by Martin Parker and Joe Hathway.
 
